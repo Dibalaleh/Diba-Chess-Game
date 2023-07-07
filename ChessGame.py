@@ -390,18 +390,5 @@ while run :
                 selection = 100
                 valid_moves = []
 
-            
-
-            
-    
-              
-
-
-
-        
-
-
     pygame.display.flip()
 pygame.quit()
-
-
